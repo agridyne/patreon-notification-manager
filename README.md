@@ -1,6 +1,8 @@
 # Patreon Notification Manager
 An overcomplicated userscript for auditing and managing Patreon creator email notification settings.
 
+<img width="1646" height="1331" alt="pnm-creator-list" src="https://github.com/user-attachments/assets/1c6e7d87-5d89-4ed2-889f-003f1d894271" />
+
 ## What it does
 Patreon Notification Manager helps you:
 - Run a read-only baseline audit of creator email notification settings
